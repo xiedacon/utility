@@ -1,5 +1,5 @@
 {
-  "name": "utility",
+  "name": "@xiedacon/utility",
   "version": "0.0.1",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/xiedacon/utility.git"
   },
-  "keywords": [],
+  "keywords": ["utility"],
   "author": "xiedacon",
   "license": "MIT",
   "bugs": {
